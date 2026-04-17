@@ -1,0 +1,59 @@
+- [x] Board of Assessors
+- [x] Board of Health
+- [x] Charter Commission
+- [ ] City Council
+	- [x] Committee on Economic Development & Tourism
+	- [x] Ad Hoc Committee on Subdivisions
+	- [x] Health and Environmental Affairs
+	- [x] Finance
+	- [x] Public Safety
+	- [x] Human Services, Housing, Youth & Elder Affairs
+	- [x] Ordinances & Legislation
+	- [x] Real Estate
+	- [x] Regulations
+	- [x] Public Works & Transportation
+	- [ ] Technology Subcommittee
+- [x] Community Preservation Agency
+- [x] Community Preservation Commission
+- [x] Community Development Agency
+- [x] Conservation Commission
+- [x] Council on Aging ???
+	- [x] none
+- [x] Cultural Council
+- [x] Disability Commission ???
+	- [x] All set
+- [x] Election Commission
+- [x] Historical Commission
+- [x] Housing Authority
+- [x] Committee on Human Services, Housing, Youth,Elder & Veterans Affairs
+- [x] Library Board of Trustees ???
+- [x] Licensing Board
+- [x] Municipal Bid Opening
+- [x] Park Board
+- [x] Planning Board
+- [x] Port Authority
+- [x] Redevelopment Authority Board
+- [x] Retirement Board
+- [ ] School Committee
+	- [x] Facilities & Operations Subcommittee
+	- [x] Grievance Subcommittee
+	- [x] Parent & Community Outreach Subcommittee
+	- [x] Finance Sub Committee
+	- [x] Instructional Subcommittee
+	- [x] Policy Subcommittee
+	- [ ] Public Hearing
+	- [ ] Regular Meeting
+	- [x] Special Ed / Alternative Ed and Early Childhood Subcommittee
+	- [x] Evaluation Sub Committee
+- [x] Sewer Board
+- [x] Special Charter Committee
+- [x] Tax Increment Finance Board
+- [x] Traffic Commission
+	- [x] Ticket Amnesty
+- [x] Watuppa Water Board
+- [x] Zoning Board of Appeals
+
+
+Water board was accidentally saved under "Special Events"
+**Park Board contains all of the Planning Board meetings-- MUST FIX**
+Must rethink how I handle "public service announcements" and various emt/first responder ceremonies

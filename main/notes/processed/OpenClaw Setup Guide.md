@@ -10,6 +10,7 @@ tags:
   - clippings
   - OpenClaw
   - Setup
+processed: true
 ---
 🌐
 

@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitripper/wiki/Query_Loop_Filter_By_Views.md",
+                "file": "ada_lovelace/wiki/Compounding_Knowledge_with_Obsidian.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Query_Loop_Filter_By_Views"
+              "title": "Compounding_Knowledge_with_Obsidian"
             }
           }
         ]
@@ -53,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#self-hosted-AI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 367.5
   },
   "right": {
     "id": "fdacca4019ea4c95",
@@ -185,41 +195,42 @@
   },
   "active": "cab54ff8747802e6",
   "lastOpenFiles": [
-    "rivers-edge/README.md",
-    "rivers-edge",
-    "refs/remotes/origin/HEAD",
-    "refs/remotes/origin",
-    "refs/heads/master",
-    "refs/tags",
-    "refs/remotes",
-    "refs/heads",
-    "refs",
-    "packed-refs",
-    "objects/pack/pack-f4917a45f02400a9b395a22a80a46575f577476d.pack",
     "README.md",
-    "bitripper/Notes/WenHao Yu.md",
-    "WenHao Yu.md",
-    "2026-04-13.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "main/wiki/OpenClaw-Setup-Guide.md",
+    "Digital Audience Engagement.md",
+    "main/wiki/Working-with-Submodules.md",
+    "main/wiki/Compounding_Knowledge_with_Obsidian.md",
+    "main/outputs",
+    "rivers_edge/Fall River Committees 1.md",
+    "main/wiki",
+    "wiki",
+    "ada_lovelace/notes/processed/Mastering Social Media-- Top Strategies for News Organizations.md",
+    "ada_lovelace/wiki/Mastering-Social-Media---Top-Strategies-for-News-Organizations.md",
+    "main/notes/processed/OpenClaw Setup Guide.md",
+    "main/notes/unprocessed/working_with_submodules.md",
+    "main/notes/working_with_submodules.md",
+    "main/notes/unprocessed",
+    "main/notes/processed",
+    "processed",
+    "unprocessed",
+    "main/notes",
+    "notes",
+    "ada_lovelace/notes/unprocessed/Mastering Social Media-- Top Strategies for News Organizations.md",
+    "ada_lovelace/notes/processed/working_with_submodules.md",
+    "ada_lovelace/notes/unprocessed/working_with_submodules.md",
+    "Untitled 1.md",
     "Untitled.md",
-    "bitripper/wiki/bitripper_profile.md",
-    "bitripper/bitripper_profile.md",
-    "Gutenberg Docs.md",
-    "ada_lovelace/notes/OpenClaw Setup Guide.md",
-    "OpenClaw Setup Guide.md",
-    "ada_lovelace/wiki/Revenue Models.md",
-    "bitripper/wiki/Query_Loop_Extension_in_Gutenberg.md",
-    "bitripper/wiki/WordPress_Hooks_and_Filters.md",
-    "rivers_edge/copilot/copilot-custom-prompts/Make longer.md",
-    "rivers_edge/copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "rivers_edge/copilot/copilot-custom-prompts/Make shorter.md",
-    "rivers_edge/copilot/copilot-custom-prompts/Simplify.md",
-    "rivers_edge/copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "rivers_edge/copilot/copilot-custom-prompts/Generate table of contents.md",
-    "rivers_edge/copilot/copilot-custom-prompts/Generate glossary.md",
-    "rivers_edge/copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "rivers_edge/copilot/copilot-custom-prompts/Remove URLs.md",
-    "rivers_edge/copilot/copilot-custom-prompts/Summarize.md",
-    "test.xlsx.md",
-    "Untitled.canvas"
+    "rivers_edge/Fall River Committees.md",
+    "copilot/copilot-conversations/Initial_Greeting_Exchange@20260416_174642.md",
+    "copilot/copilot-conversations/hi@20260416_174642.md",
+    "main/Thinking/Compounding_Knowledge_with_Obsidian 1.md",
+    "ada_lovelace/Thinking/Compounding_Knowledge_with_Obsidian 1.md",
+    "copilot/copilot-conversations/Error_with_Google_Gemini_Model_-_Need_API_Key@20260416_161038.md",
+    "copilot/copilot-conversations/API_Key_Error_in_Model_Request@20260416_161038.md",
+    "copilot/copilot-conversations/hi@20260416_161038.md",
+    "copilot/copilot-conversations/If_a_lead_ball_and_a_feather_are_dropped_simultaneously@20260416_160716.md",
+    "ada_lovelace/Projects/fall_river_mirror"
   ]
 }
