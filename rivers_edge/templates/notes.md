@@ -1,6 +1,10 @@
-# Daily "When" Log - 2026-04-20
+## 
 
-## Questions and Answers:
+
+*************************************************************************************************************
+
+
+Questions and Answers:
 1. **What tasks do I have for today?**
  - [ ] Fix the typesense search so that it works on production
  - [ ] Fix the Whisper errors in the pipeline
@@ -21,4 +25,17 @@
 4. **Should I review and update my Someday and Later lists?**
  - Added to Later: Fix new dev env and complete Rivers Edge site
  - Added to Someday: Move site infra to Digital Ocean with Docker containers
-hello world!
+
+
+In our progress update meeting, be prepared to discuss the following 3 items. 
+
+1. What I did today
+    
+2. What I plan to do tomorrow
+    
+3. Any blocking issues
+  
+
+If you cannot attend an update meeting, please copy/paste your updates into Slack.
+
+*************************************************************************************************************
