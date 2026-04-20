@@ -21,4 +21,3 @@
 4. **Should I review and update my Someday and Later lists?**
  - Added to Later: Fix new dev env and complete Rivers Edge site
  - Added to Someday: Move site infra to Digital Ocean with Docker containers
-hello world!

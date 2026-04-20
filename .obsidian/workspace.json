@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e693ec809b8b84e4",
+        "id": "3035a31788d76d73",
         "type": "tabs",
         "children": [
           {
-            "id": "cab54ff8747802e6",
+            "id": "f312cd7a885b282e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ada_lovelace/wiki/Compounding_Knowledge_with_Obsidian.md",
+                "file": "bitripper/wiki/WordPress-Docker-Tailscale-Serve.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Compounding_Knowledge_with_Obsidian"
+              "title": "WordPress-Docker-Tailscale-Serve"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 452.5
   },
   "right": {
     "id": "fdacca4019ea4c95",
@@ -193,44 +193,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "cab54ff8747802e6",
+  "active": "000177b2e14bee0f",
   "lastOpenFiles": [
+    "2026-04-19.md",
+    "copilot/copilot-conversations/Note_Update_Confirmation_Issue@20260419_204421.md",
+    "copilot/copilot-conversations/Script_Execution_Error@20260419_204421.md",
+    "copilot/copilot-conversations/Successfully_updated_notes.md_with_test.md_where_is_that_coming_from@20260419_204421.md",
+    "_scripts",
+    "scripts",
+    "Untitled",
+    "ada_lovelace/notes/when/test.md",
+    "ada_lovelace/notes/when/2026-04-19.md",
+    "Untitled.md",
+    "updateNote.js.md",
+    "copilot/copilot-conversations/Recent_Log_at_Notes_Top@20260419_201729.md",
+    "copilot/copilot-conversations/how_can_i_include_the_most_recent_when_log_at@20260419_201729.md",
+    "ada_lovelace/notes/when/2026-04-20.md",
+    "ada_lovelace/notes/when",
+    "ada_lovelace/notes/When/2026-04-19.md",
+    "ada_lovelace/notes/When/2026-04-20.md",
+    "ada_lovelace/notes/processed/Time Tracking Advice.md",
+    "ada_lovelace/notes/Who",
+    "ada_lovelace/notes/Where",
+    "ada_lovelace/notes/When",
+    "copilot/copilot-conversations/Task_Management_Workflow_Integration@20260419_180948.md",
+    "copilot/memory/Recent Conversations.md",
+    "copilot/memory",
+    "Time Tracking Advice.md",
+    "copilot/copilot-conversations/Zooming_Out_in_3D_Graph_View@20260419_155129.md",
+    "copilot/copilot-conversations/is_there_a_way_to_zoom_out_in_the_3d@20260419_155129.md",
+    "ada_lovelace/notes/time-clock.md",
+    "copilot/copilot-conversations/Hour_Tracking_File_Creation@20260419_012154.md",
+    "copilot/copilot-conversations/can_you_make_a_file_to_track_my_hours_it'll@20260419_012154.md",
+    "bitripper/wiki/MCP-ping-from-Cursor.md",
+    "bitripper/wiki/WordPress-Docker-Tailscale-Serve.md",
     "README.md",
+    "rivers_edge/Logs/2026-04-17.md",
+    "Clippings Gutenberg block-theme supports",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "main/wiki/OpenClaw-Setup-Guide.md",
-    "Digital Audience Engagement.md",
-    "main/wiki/Working-with-Submodules.md",
-    "main/wiki/Compounding_Knowledge_with_Obsidian.md",
-    "main/outputs",
-    "rivers_edge/Fall River Committees 1.md",
-    "main/wiki",
-    "wiki",
-    "ada_lovelace/notes/processed/Mastering Social Media-- Top Strategies for News Organizations.md",
-    "ada_lovelace/wiki/Mastering-Social-Media---Top-Strategies-for-News-Organizations.md",
-    "main/notes/processed/OpenClaw Setup Guide.md",
-    "main/notes/unprocessed/working_with_submodules.md",
-    "main/notes/working_with_submodules.md",
-    "main/notes/unprocessed",
-    "main/notes/processed",
-    "processed",
-    "unprocessed",
-    "main/notes",
-    "notes",
-    "ada_lovelace/notes/unprocessed/Mastering Social Media-- Top Strategies for News Organizations.md",
-    "ada_lovelace/notes/processed/working_with_submodules.md",
-    "ada_lovelace/notes/unprocessed/working_with_submodules.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "rivers_edge/Fall River Committees.md",
-    "copilot/copilot-conversations/Initial_Greeting_Exchange@20260416_174642.md",
-    "copilot/copilot-conversations/hi@20260416_174642.md",
-    "main/Thinking/Compounding_Knowledge_with_Obsidian 1.md",
-    "ada_lovelace/Thinking/Compounding_Knowledge_with_Obsidian 1.md",
-    "copilot/copilot-conversations/Error_with_Google_Gemini_Model_-_Need_API_Key@20260416_161038.md",
-    "copilot/copilot-conversations/API_Key_Error_in_Model_Request@20260416_161038.md",
-    "copilot/copilot-conversations/hi@20260416_161038.md",
-    "copilot/copilot-conversations/If_a_lead_ball_and_a_feather_are_dropped_simultaneously@20260416_160716.md",
-    "ada_lovelace/Projects/fall_river_mirror"
+    "main/outputs"
   ]
 }
